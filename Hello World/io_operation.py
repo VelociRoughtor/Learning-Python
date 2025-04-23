@@ -8,3 +8,4 @@ print(type(birth_year))             # This will be a string
 age = 2025 - int(birth_year)
 print(type(age))                    # This will be an integer
 print(name + ' is ' + str(age) + ' years old.')
+
